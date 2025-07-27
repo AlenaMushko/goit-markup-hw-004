@@ -132,7 +132,6 @@ button {
 
 .header_nav {
   display: flex;
-  gap: 76px;
   align-items: center;
 }
 
@@ -366,7 +365,6 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 8px;
   transition: background-color var(--transition);
 }
 
